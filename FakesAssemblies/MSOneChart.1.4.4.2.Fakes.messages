@@ -1,0 +1,5 @@
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\CodeForElmerICE\HawkBox_Csharp\Fakes\MSOneChart.fakes : warning : Cannot generate stub for MSOneChart.ColorConvert: Type is sealed.
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\CodeForElmerICE\HawkBox_Csharp\Fakes\MSOneChart.fakes : warning : Cannot generate stub for MSOneChart.ColorRef: Type is sealed.
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\CodeForElmerICE\HawkBox_Csharp\Fakes\MSOneChart.fakes : warning : Cannot generate stub for MSOneChart.FourierTransform: Type is sealed.
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\CodeForElmerICE\HawkBox_Csharp\Fakes\MSOneChart.fakes : warning : Cannot generate stub for MSOneChart.SlantedEdgeCalc: Type is sealed.
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\CodeForElmerICE\HawkBox_Csharp\Fakes\MSOneChart.fakes : warning : Cannot generate stub for MSOneChart.SpatialFunc: Type is sealed.

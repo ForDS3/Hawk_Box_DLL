@@ -1,0 +1,8 @@
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForCommonCode\Hawk_Box\bin\Debug\Hawk.dll
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForCommonCode\Hawk_Box\bin\Debug\Hawk.pdb
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForCommonCode\Hawk_Box\bin\Debug\MSOneChart.dll
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForCommonCode\Hawk_Box\obj\Debug\Hawk.csproj.CoreCompileInputs.cache
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForCommonCode\Hawk_Box\obj\Debug\Hawk.csproj.CopyComplete
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForCommonCode\Hawk_Box\obj\Debug\Hawk.dll
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForCommonCode\Hawk_Box\obj\Debug\Hawk.pdb
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForCommonCode\Hawk_Box\obj\Debug\Hawk.csproj.AssemblyReference.cache

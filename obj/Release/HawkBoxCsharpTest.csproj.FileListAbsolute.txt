@@ -1,0 +1,8 @@
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForBenham\HawkBox_Csharp\bin\Release\HawkboxCsharp.dll
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForBenham\HawkBox_Csharp\bin\Release\HawkboxCsharp.pdb
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForBenham\HawkBox_Csharp\bin\Release\MSOneChart.dll
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForBenham\HawkBox_Csharp\obj\Release\HawkBoxCsharpTest.csproj.AssemblyReference.cache
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForBenham\HawkBox_Csharp\obj\Release\HawkBoxCsharpTest.csproj.CoreCompileInputs.cache
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForBenham\HawkBox_Csharp\obj\Release\HawkBoxCsharpTest.csproj.CopyComplete
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForBenham\HawkBox_Csharp\obj\Release\HawkboxCsharp.dll
+C:\Users\v-luwen.FAREAST\OneDrive - Microsoft\LW_CODE\ForBenham\HawkBox_Csharp\obj\Release\HawkboxCsharp.pdb
